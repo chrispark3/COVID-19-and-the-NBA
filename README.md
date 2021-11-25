@@ -13,5 +13,5 @@ The main beneficiaries of this project are coaches and front offices who could a
 This study is generalizable to other sports since COVID-19 resulted in various rule changes and regulations in other leagues in the United States.
 
 #### The full analysis can be found in _Analysis.pdf_ and its respective R code in _COVID-19 NBA.Rmd_
-#### Other files included are the datasets (.csv) 
+#### Other files included are the datasets _(.csv)_ 
 
