@@ -10,4 +10,5 @@ The next step for this project is to compare home and away statistics/records in
 
 This study is generalizable to other sports since COVID-19 resulted in various rule changes and regulations in other leagues in the United States.
 
-### The full analysis can be found 
+### The full analysis can be found in _Analysis.pdf_ and its respective R code in 
+
