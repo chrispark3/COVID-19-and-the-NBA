@@ -8,6 +8,8 @@ There were certain limitations that couldn't be accomplished due to time and res
 
 The next step for this project is to compare home and away statistics/records in each season. This would check if there was a significant league wide difference between how players and teams performed at home versus on the road. Given that every team plays an equal number of home and away games with relatively equal competition when averaged out over the season and if the only difference between the 2019-2020 and 2020-2021 regular season is COVID-19, then any difference in performance can be attributed to COVID-19.
 
+The main beneficiaries of this project are coaches and front offices who could assume that durability is one of the most valued attributes to a player. For example, the shortened offseason may have been a huge factor in the increase of injuries. 
+
 This study is generalizable to other sports since COVID-19 resulted in various rule changes and regulations in other leagues in the United States.
 
 #### The full analysis can be found in _Analysis.pdf_ and its respective R code in _COVID-19 NBA.Rmd_
